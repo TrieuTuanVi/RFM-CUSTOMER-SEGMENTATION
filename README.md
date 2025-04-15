@@ -30,7 +30,7 @@ The goal of this project is to apply RFM (Recency, Frequency, Monetary) analysis
 
 * Customer Demographic Dashboard:
   
-![1  Customer Demographic](https://github.com/user-attachments/assets/200c9fc6-9d17-4702-8782-ffb73b81f563)
+  ![1  Customer Demographic](https://github.com/user-attachments/assets/200c9fc6-9d17-4702-8782-ffb73b81f563)
 
 * Customer Segmentation (RFM Analysis) Dashboard:
 

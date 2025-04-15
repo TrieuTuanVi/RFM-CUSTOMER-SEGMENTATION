@@ -16,11 +16,11 @@ The goal of this project is to apply RFM (Recency, Frequency, Monetary) analysis
 
 2. **RFM Score Calculation**: Use DAX Measures for dynamic calculations.
 
-* Recency: Days since last purchase.
+  * **Recency**: Days since last purchase.
 
-* Frequency: Total number of purchases.
+  * **Frequency**: Total number of purchases.
 
-* Monetary: Total amount spent.
+  * **Monetary**: Total amount spent.
 
 3. **Customer Segmentation**: Classify customers into 12 segments based on RFM scores.
 

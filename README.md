@@ -10,6 +10,17 @@ The goal of this project is to apply RFM (Recency, Frequency, Monetary) analysis
 * Customer transactional dataset including: Customer ID, Full Name, Email Address, Marital Status, Age, Country,...
 * Cleaned and pre-processed to ensure accuracy for RFM calculation.
 
+## 🛠️Tools & Technologies Used
+ 
+ * **Microsoft Power BI** — Used for building dynamic dashboards and visual storytelling.
+
+ * **DAX (Data Analysis Expressions)** — Applied for advanced calculations and custom metrics inside Power BI.
+
+ * **Power Query Editor** — Used for data transformation, merging, and reshaping.
+
+ 
+
+
 ## ⚙️ Data Processing Workflow
 
 1. **Data Cleaning** 

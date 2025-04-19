@@ -62,7 +62,7 @@ The goal of this project is to apply RFM (Recency, Frequency, Monetary) analysis
   ![4  RFM Segmentation Description](https://github.com/user-attachments/assets/faf65b94-3920-4b31-abef-5e0e4e129cc9)
 
 ---
- ## 💡 Project Insights
+ ## ✅ Project Insights
  
 * **Champions** and **Loyal customers** contribute the largest share of total sales.
 
@@ -75,7 +75,7 @@ The goal of this project is to apply RFM (Recency, Frequency, Monetary) analysis
 * **At Risk** and **Need Attention** groups show early signs of churn and require proactive marketing efforts.
 
 ---
-## ✅ Final Conclusion
+## 💡 Final Conclusion
 
 The analysis highlights that a large portion of customers are at risk or require attention, while only a small percentage fall into the loyal or champion segments. To improve customer retention and revenue, businesses should implement personalized engagement strategies for “At Risk” and “Need Attention” groups, while maintaining exclusive rewards and loyalty programs to retain “Champions” and encourage “Promising” customers to evolve into long-term loyal buyers.
 
